@@ -15,7 +15,7 @@
 // ƒQ[ƒ€‚Ì”’ÎA•Î
 #define STONE_WHITE	0
 #define STONE_BLACK	1
-#define STONE_MAX	5
+#define STONE_MAX	2
 
 // Ÿ”s‚ğŠÇ—‚·‚é”’l
 #define WINNER_WHITE	0	// ”’Î‚ÌŸ‚¿
